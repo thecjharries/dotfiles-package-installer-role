@@ -1,4 +1,4 @@
-# `dotfiles-package-installer`
+# `dotfiles-package-installer-role`
 
 [![Build Status](https://travis-ci.org/thecjharries/dotfiles-package-installer-role.svg?branch=master)](https://travis-ci.org/thecjharries/dotfiles-package-installer-role)
 
@@ -26,7 +26,7 @@ None
     - hosts: all
 
     roles:
-      - role: dotfiles_package_installer
+      - role: dotfiles-package-installer-role
         packages_to_install:
           - xclock
 
