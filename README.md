@@ -1,6 +1,7 @@
 # `dotfiles-role-package-installer`
 
 [![Build Status](https://travis-ci.org/thecjharries/dotfiles-role-package-installer.svg?branch=master)](https://travis-ci.org/thecjharries/dotfiles-role-package-installer)
+[![GitHub release](https://img.shields.io/github/release/thecjharries/dotfiles-role-package-installer.svg)](https://github.com/thecjharries/dotfiles-role-package-installer)
 
 An Ansible role that installs packages in my dotfiles on Fedora 27,
 
